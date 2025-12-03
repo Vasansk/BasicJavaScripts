@@ -1,0 +1,250 @@
+▸
+Nov 18, 2025
+04:13:27
+Vasan SK (Owner) changed the email template for Polish
+04:13:15
+Vasan SK (Owner) changed the email template for English
+04:12:57
+Vasan SK (Owner) changed the email template for en_gb
+04:12:47
+Vasan SK (Owner) changed the email template for German
+04:12:37
+Vasan SK (Owner) changed the email template for French
+03:57:24
+Vasan SK (Owner) changed the email template for Spanish
+03:57:21
+Vasan SK (Owner) changed the email template for Spanish
+▸
+Nov 17, 2025
+12:03:57
+Vasan SK (Owner) changed the email template for fr
+12:03:29
+Vasan SK (Owner) changed the email template for en_gb
+05:08:29
+Vasan SK(Owner) renamed a tag named "new Tag 1 2"
+05:07:46
+Vasan SK(Owner) renamed a tag named "new Tag 1"
+05:00:14
+Vasan SK(Owner) deleted a user from new Tag
+04:56:17
+Vasan SK(Owner) added users to new Tag
+04:48:38
+Vasan SK(Owner) deleted a tag named "abc"
+04:32:37
+Vasan SK(Owner) created a new tag named "new Tag"
+04:31:30
+Vasan SK(Owner) Created a new tag named (123)
+04:30:38
+Vasan SK(Owner) Created a new tag named abc
+▸
+Nov 16, 2025
+03:24:11
+Vasan SK(Owner) Created a new tag
+▸
+Nov 13, 2025
+12:14:23
+Vasan SK(OWNER) added users tosdds
+12:13:38
+Vasan SK(OWNER) deleted a tag
+12:04:37
+Vasan SK(Owner) Created a new tag
+05:04:48
+Vasan SK(Owner) created a New webhook token
+▸
+Nov 12, 2025
+12:03:14
+Vasan SK(Owner) changed Vasan k (Admin) Email Notification Language from French to Polish
+12:03:06
+Vasan SK(Owner) changed Vasan k NaNAdmin) Email Notification Language from Spanish to French
+12:00:07
+Vasan SK(Owner) changed NaN Email Notification Language from English to Spanish
+11:57:01
+Vasan SK(Owner) changed NaN Email Notification Language from German to Polish
+11:55:02
+Vasan SK(Owner) changed NaN Email Notification Language from Spanish to German
+11:04:35
+Vasan SK(Owner) changed Vasan k Email Notification Language from French to Spanish
+10:59:58
+Vasan SK(Owner) changed Vasan k Email Notification Language
+10:59:35
+Vasan SK(Owner) updates Vasan k Email Notification Language
+10:36:04
+Vasan SK(Owner) updates Vasan k Email Notification Language
+10:08:40
+Vasan SK(Owner) updates Vasan kExternal URL
+10:07:44
+Vasan SK(Owner) updates External URL
+10:06:50
+Vasan SK(Owner) updates Vasan SKExternal URL
+10:06:09
+Vasan SK(Vasan SK) updates Vasan SK External URL
+10:04:59
+Vasan SK(Owner) updates Vasan SKExternal URL
+09:28:21
+Vasan SK(Owner) DISABLED WEBHOOK
+07:59:21
+Vasan SK(Owner) ENABLED WEBHOOK
+07:59:21
+Vasan SK(Owner) created a New webhook token
+07:59:19
+Vasan SK(Owner) updated Endpoint URL
+07:58:50
+Vasan SK(OWNER) DISABLED WEBHOOK
+07:57:51
+Vasan SK(Owner) ENABLED WEBHOOK
+07:57:47
+Vasan SK(Owner) created a New webhook token
+07:57:02
+Vasan SK(Owner) updated Endpoint URL
+07:53:33
+Vasan SK(Owner) created a New webhook token
+07:52:47
+Vasan SK(Owner) updated Endpoint URL
+07:43:28
+Vasan SK(Owner) DISABLED WEBHOOK
+07:43:10
+Vasan SK(Owner) ENABLED WEBHOOK
+07:35:43
+Vasan SK(Owner) created new webhook token
+07:30:15
+Vasan SK(Owner) updated Endpoint URL
+07:29:45
+Vasan SK(Owner) updated Endpoint URL
+05:57:36
+Vasan SK(Owner) selected (Feedback form template)
+05:53:05
+Vasan SK(Owner) DISABLED (Use customised feedback form)
+05:51:49
+Vasan SK(Owner) ENABLED (Use customised feedback form)
+05:51:27
+Vasan SK(Owner) Feedback form template)
+05:43:47
+Vasan SK(Owner) Feedback form template)
+05:39:53
+Vasan SK(Owner) Use customised feedback form
+▸
+Nov 11, 2025
+11:01:16
+Vasan SK(Owner) selected Redirect option "Redirect to self"
+10:47:26
+Vasan SK(Owner) ENABLED feedback settings"Make Name field mandatory";
+10:45:34
+Vasan SK(Owner) DISABLED feedback settings(Hide Name field on feedback page)
+10:45:18
+Vasan SK(Owner) updates feedback settings(Hide Name field on feedback page)
+10:33:02
+Vasan SK(Owner) updates feedback settings(Show Organisation name on the feedback page)
+10:09:52
+Vasan SK(Owner) assigned the FEEDBACK_SETTINGS role to Vasan k (Admin)
+10:09:50
+Vasan SK(Owner) assigned the ORGANISATION_SETTINGS role to Vasan k (Admin)
+10:06:16
+Vasan SK(OWNER) assigned the EMAIL_SETTINGS role to Vasank (ADMIN)
+10:06:08
+Vasan SK(OWNER) assigned the USERMANAGEMENT role to Vasank (OWNER)
+10:01:01
+Vasan SK(OWNER) assigned the USERMANAGEMENT role to VK (OWNER)
+09:59:49
+Vasan SK(ADMIN) assigned the SUBSCRIPTION role to VK (1)
+09:55:51
+Vasan SK(ADMIN) changed Vasan k as Admin
+09:55:26
+Vasan SK(ADMIN) changed Vasan k as user
+08:52:46
+Vasan SK(ADMIN) assigned the SUBSCRIPTION role to Vasan k (undefined) as Admin
+07:20:01
+Vasan SK(ADMIN) changed Vasan k as Admin
+07:00:52
+Vasan SK(ADMIN) assigned the SUBSCRIPTION role to Vasan k (undefined) as Admin
+06:54:25
+Vasan SK(ADMIN) changed Vasan k as Admin
+05:30:23
+Vasan SK updates feedback settings(Show team members’ first name and last name on the feedback page.)
+▸
+Nov 10, 2025
+12:08:02
+Vasan SK(ADMIN)changed Vasan k as user
+12:07:48
+Vasan SK(ADMIN)changed Vasan k as Admin
+12:07:09
+Vasan SK(undefined)changed Vasan k as user
+12:06:46
+Vasan SK(ADMIN)changed Vasan k asAdmin
+12:01:21
+Vasan SK(undefined)changed undefined asuser
+10:52:11
+Vasan SK(undefined)changed undefined asuser
+10:52:05
+Vasan SK(0)changed 0 asAdmin
+10:45:13
+Vasan SKchanged undefined asuser
+10:43:45
+Vasan SK(undefined)changed undefined asuser
+10:43:29
+Vasan SK(undefined)changed undefined asuser
+07:05:01
+Vasan SK updates feedback settings(Admin)
+05:51:30
+Vasan SK updates Disclaimer for customer feedback page
+05:51:23
+Vasan SK updates Redirect option(No Redirect)
+▸
+Nov 07, 2025
+11:16:21
+Vasan SK updates feedback settings(Hide Email field on feedback page)
+▸
+Nov 06, 2025
+04:52:29
+Vasan SK updates Redirect option(Default)
+04:52:26
+Vasan SK updates Redirect option(No Redirect)
+04:52:09
+Vasan SK updates Redirect option(No Redirect)
+04:51:53
+Vasan SK updates Redirect option(Custom)
+04:51:27
+Vasan SK updates Redirect option(Redirect to self)
+04:50:38
+Vasan SK updates Redirect option(Redirect to self)
+04:50:10
+Vasan SK updates Redirect option(No Redirect)
+04:41:55
+Vasan SK updates Redirect option(No Redirect)
+04:40:35
+Vasan SK updates Redirect option(No Redirect)
+04:40:21
+Vasan SK updates feedback settings(Hide Comment field on feedback page)
+04:39:30
+Vasan SK updates Redirect option(No Redirect)
+04:38:29
+Vasan SK updates Redirect option(Custom)
+04:38:07
+Vasan SK updates Redirect option(Redirect to self)
+04:38:05
+Vasan SK updates Redirect option(No Redirect)
+04:04:27
+Vasan SK updates feedback settings(Make Comment field mandatory)
+04:04:25
+Vasan SK updates feedback settings(Make Email field mandatory)
+04:04:24
+Vasan SK updates feedback settings(Make Name field mandatory)
+04:04:22
+Vasan SK updates feedback settings(Hide Comment field on feedback page)
+04:04:21
+Vasan SK updates feedback settings(Hide Email field on feedback page)
+04:04:18
+Vasan SK updates feedback settings(Hide Name field on feedback page)
+▸
+Nov 05, 2025
+12:07:39
+Vasan SK updates feedback settings(Hide Name field on feedback page)
+12:02:22
+Vasan SK updates feedback settings(Hide Email field on feedback page)
+09:35:01
+Vasan SK updates feedback settings(Hide Comment field on feedback page)
+07:33:29
+Cancel delete updates feedback settings(Hide Comment field on feedback page)
+▸
+Nov 04, 2025
+17:17:56
+Cancel delete updates feedback settings
