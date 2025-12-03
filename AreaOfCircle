@@ -1,0 +1,5 @@
+let r = prompt('Enter the radius of the circle:');
+
+let formula = Math.PI * r * r;
+
+console.log(`the radius of the circle:${formula.toFixed(2)}`);
