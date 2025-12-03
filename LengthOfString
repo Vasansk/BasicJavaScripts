@@ -1,5 +1,5 @@
 let input = prompt('Enter the string to calculate:');
 
-let formula = input.length;
+let stringLength = input.length;
 
-console.log(`the radius of the circle: ${formula}`);
+console.log(`The length of the string is ${stringLength}`);
