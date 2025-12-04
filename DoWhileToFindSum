@@ -1,0 +1,12 @@
+let input = prompt("Enter the input:");
+
+let i = 1 ;
+let final = 0;
+do{
+    console.log(`${final} + ${i}`);
+    final = final + i ; 
+     i++;
+}
+while(i<=input);
+
+console.log(`The sum is ${final}`)
