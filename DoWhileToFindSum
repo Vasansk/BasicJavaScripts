@@ -10,3 +10,28 @@ do{
 while(i<=input);
 
 console.log(`The sum is ${final}`)
+
+
+***********************************************************************************
+Output : 1+2+3+4+5
+
+let input = prompt("Enter the input:");
+
+let i = 1 ;
+let final = 0;
+expersion = "";
+
+do{
+    expersion = expersion + i;
+    
+    if(i < input){
+        expersion = expersion + "+";
+    }
+    
+    final = final + i;
+    
+    i++;
+}
+while(i<=input);
+
+console.log(`${expersion} = ${final}`);
