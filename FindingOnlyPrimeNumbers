@@ -1,0 +1,29 @@
+let input = prompt("Enter the input:");
+
+let final = input.split(",");
+
+let number = final.map(Number);
+
+let i;
+let j;
+for(i=0 ; i < number.length;i++){
+    
+    let num = number[i]
+    isPrime = true;
+    
+    if( num <= 1){
+        continue;
+    }
+    
+    for(j=2; j<num;j++)
+    {
+        if(num % j == 0){
+            isPrime = false;
+            break;  
+        }
+    }
+    if(isPrime){
+        console.log(num);
+    }
+
+}
