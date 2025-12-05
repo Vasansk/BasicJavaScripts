@@ -1,0 +1,23 @@
+let input = prompt("Enter the input:");
+
+let final = input.split(",");
+
+let number = final.map(Number);
+
+let i=0;
+let even =0;
+let odd =0;
+
+while(i<=number.length-1){
+    
+    if(number[i] % 2 == 0){
+        even += 1;
+    }
+    else{
+        odd += 1;
+    }
+    i++;
+}
+
+console.log(even);
+console.log(odd);
