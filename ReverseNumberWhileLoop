@@ -1,0 +1,13 @@
+let input = Number(prompt("Enter the input:"));
+
+let reverse = 0;
+
+while(input > 0){
+    let latestNum = input % 10;  //seperate the last digit
+    
+    reverse = (reverse * 10) + latestNum ;  // save the last seperate digit
+    console.log(reverse);
+    input = Math.floor(input/10);  //remove last digit
+}
+
+console.log(reverse);
