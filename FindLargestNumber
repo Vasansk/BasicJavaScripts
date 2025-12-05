@@ -1,10 +1,33 @@
+//Modern approach
+
 let input = prompt("Enter the input:");
 
 let final = input.split(",");
 
 let number = final.map(Number);
 
-
 let q = Math.max(...number);
 
 console.log(q);
+
+********************************************************************************************
+//Old approach
+
+let input = prompt("Enter the input:");
+
+let final = input.split(",");
+
+let number = final.map(Number);
+
+let i = 0;
+let largest = number[0];
+
+while(i<=number.length-1){
+    
+    if(number[i]> largest){
+        largest = number[i];
+    }
+    i++;
+}
+
+console.log(largest);
