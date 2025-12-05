@@ -1,0 +1,10 @@
+let input = prompt("Enter the input:");
+
+let final = input.split(",");
+
+let number = final.map(Number);
+
+
+let q = Math.max(...number);
+
+console.log(q);
