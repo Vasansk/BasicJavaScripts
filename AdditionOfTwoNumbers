@@ -1,0 +1,38 @@
+//Old format
+
+function add(a, b){
+    c = a+b;
+    console.log(`Result: ${c}`);
+}
+
+let input = prompt('Enter two numbers: ');
+
+let split = input.split(',');
+
+let a = Number(split[0]);
+let b = Number(split[1]);
+
+add(a,b);
+
+*************************************************************************************
+//new formt
+
+function add(a, b){
+    console.log(`Result: ${a+b}`);
+}
+
+let input = prompt('Enter two numbers: ');
+
+if(input && input.includes(',')){
+    let [a,b] = input.split(',').map(Number);
+    
+    if(!isNaN(a) && !isNaN(b)){
+        add(a,b);
+    }
+    else{
+        console.log('Enter a valid input!')
+    }
+}
+else{
+    console.log('Input format is wrong');
+}
