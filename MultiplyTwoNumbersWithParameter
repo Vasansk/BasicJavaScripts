@@ -1,0 +1,12 @@
+function multiply(a=1, b=1){
+   console.log(a*b);
+  }
+    
+  let input = prompt('Enter two numbers: ');
+    
+  let values = input.split(',').map(Number);
+        
+  let a = values[0];
+  let b = values[1] || 1;
+        
+multiply(a,b);
