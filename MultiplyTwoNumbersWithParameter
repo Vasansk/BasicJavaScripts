@@ -1,12 +1,18 @@
-function multiply(a=1, b=1){
-   console.log(a*b);
-  }
-    
-  let input = prompt('Enter two numbers: ');
-    
-  let values = input.split(',').map(Number);
-        
-  let a = values[0];
-  let b = values[1] || 1;
-        
-multiply(a,b);
+function multiply(a = 1, b = 1) {
+    console.log(a * b);
+}
+
+let input = prompt('Enter two numbers: ');
+
+if (input) {
+    let values = input.split(',').map(Number); 
+
+    let a = values[0];          // first number
+    let b = values[1] || 1;     // if second is missing → use 1
+
+    multiply(a, b);
+} 
+else {
+    // No input → use defaults
+    multiply();
+}
