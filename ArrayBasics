@@ -1,0 +1,13 @@
+let input = prompt("Enter numbers eg: 10,20,30,40,50 : ");
+
+let numberArray = input.split(',').map(Number);
+
+let mappedValues = numberArray.map(n => n * 2);
+
+let filteredValues = mappedValues.filter(n => n > 50);
+
+let reducedValues = filteredValues.reduce((acc, cur) => acc + cur, 0);
+
+console.log("Mapped values:", mappedValues);
+console.log("Filtered values:", filteredValues);
+console.log("Reduced values:", reducedValues);
