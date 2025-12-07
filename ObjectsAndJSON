@@ -1,0 +1,33 @@
+let data = [];
+
+for (let i = 0; i < 3; i++) {
+    let input = prompt("Enter details eg: name:ram, age:20, city:chennai");
+
+    let parts = input.split(',');
+
+    let obj = {};
+
+    parts.forEach(part => {
+        let [key, value] = part.split(':');
+        obj[key.trim()] = value.trim();
+    });
+
+    // Convert age to number
+    obj.age = Number(obj.age);
+
+    data.push(obj);
+}
+
+console.log("All Students:", data);
+
+// 1. map() -> get only names
+let names = data.map(s => s.name);
+console.log("Names:", names);
+
+// 2. filter() -> age > 20
+let ageAbove20 = data.filter(s => s.age > 20);
+console.log("Age > 20:", ageAbove20);
+
+// 3. JSON.stringify()
+let jsonData = JSON.stringify(data);
+console.log("JSON Data:", jsonData);
