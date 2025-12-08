@@ -1,0 +1,14 @@
+function Car(brand, model, year) {
+    this.brand = brand,
+   this.model = model,
+    this.year = year,
+    
+    this.showDetails = function(){
+        console.log(`Hi, I am ${this.brand} from ${this.model}, and I am ${this.year} years old.`);
+    }
+};
+
+let a = new Car("Toyota","Fortuner",2023);
+
+a.showDetails();
+
