@@ -4,7 +4,7 @@ function Car(brand, model, year) {
     this.year = year,
     
     this.showDetails = function(){
-        console.log(`Hi, I am ${this.brand} from ${this.model}, and I am ${this.year} years old.`);
+        console.log(`Brand: ${this.brand}, Model: ${this.model}, Year: ${this.year}`);
     }
 };
 
