@@ -1,0 +1,11 @@
+let person = {
+    name: "vasan",
+    age: 23,
+    city: "chennai",
+    
+    showDetails: function(){
+        console.log(`Hi, I am ${this.name} from ${this.age}, and I am ${this.city} years old.`);
+    }
+};
+
+person.showDetails();
