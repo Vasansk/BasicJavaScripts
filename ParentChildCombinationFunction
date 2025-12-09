@@ -1,0 +1,29 @@
+function Person(name,age,city){
+    this.name = name,
+    this.age = age,
+    this.city = city
+}
+
+Person.prototype.showDetails = function(){
+    console.log(`Name: ${this.name}, Age: ${this.age}`)
+}
+
+function Student(name,age,grade){
+    Person.call(this, name, age);
+    this.grade = grade;
+}
+
+Student.prototype = Object.create(Person.prototype);
+
+Student.prototype.constructor = Student;
+
+Student.prototype.showStudentDetails = function(){
+        console.log(`Name: ${this.name}, Age: ${this.age}, Grade: ${this.grade}`);
+}
+
+let s1 = new Student("vasan",21,"A");
+
+s1.showDetails();
+
+s1.showStudentDetails();
+
