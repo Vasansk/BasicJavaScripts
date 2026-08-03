@@ -1,0 +1,11 @@
+function done (){
+    console.log('Done');
+}
+    
+function start(callback){
+    console.log('Start');
+    
+    callback();
+}
+
+start(done)
